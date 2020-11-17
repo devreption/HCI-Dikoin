@@ -3,5 +3,5 @@
 - Muhammad Arwani Umar      1313619031 <br>
 - Arga Widya Samudera       1313619032
 
-#DIKOIN
+# DIKOIN <br>
 Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengelola keuangan pribadi.
