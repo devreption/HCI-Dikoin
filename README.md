@@ -11,7 +11,10 @@
 
 ## Report Writing Summary
 - <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/Report%20Writing%20Summary">Link untuk melihat Report Writing </a>
-
+## PORTOFOLIO <br>
+Tidak bisanya mengatur keuangan dengan baik sehingga akan memicu masalah keuangan yang berhubungan dengan keseharian. Ini tidak ada hubungannya dengan orang kaya atau miskin, tetapi bagaimana seseorang bisa mengelola keuangan pribadi maupun keluarganya dengan baik dan jelas.
+<br> <br>
+Masalah keuangan ini sangat perlu diberikan edukasi, karena jika dibiarkan akan berdampak pada kondisi yang tidak kondusif. Project Dicoin ini adalah usaha kami untuk menghilangkan masalah ini. Dalam project ini kami berencana untuk membantu Anda dalam mengurus masalah keuangan agar mampu mengatur keuangan lebih baik.
 ## DIKOIN <br>
 Masyarakat dan finansial merupakan sebuah topik yang terus diperbincangkan karena
 Indonesia akan menghadapi bonus demografi rentang tahun 2020-2035 dan puncaknya pada
