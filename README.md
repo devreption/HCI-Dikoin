@@ -15,6 +15,7 @@ Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengel
 
 ## Link Video Recording <br>
 Link Video Conference Tentang Penjelasan Desain Mockup https://youtu.be/vLceVgqu2BU
+- <a href = "https://youtu.be/vLceVgqu2BU">Link Video Conference Tentang Penjelasan Desain Mockup </a>
 
 ## Fitur
 #### 1. Login (jika sudah memiliki akun) dan Daftar (jika belum memiliki akun)
