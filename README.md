@@ -19,7 +19,7 @@ Link Video Conference Tentang Penjelasan Desain Mockup https://youtu.be/vLceVgqu
 ## Fitur
 #### 1. Login (jika sudah memiliki akun) dan Daftar (jika belum memiliki akun)
 #### 2. Home
-  - Pemriksaan Keuangan
+  - Pemeriksaan Keuangan
   - Rencana Keuangan
   - Laporan Keuangan
   - Anggaran
