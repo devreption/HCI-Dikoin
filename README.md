@@ -7,8 +7,10 @@
 Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengelola keuangan pribadi.
 
 ## Tujuan <br>
+Dengan adanya Dikoin ini, diharapkan pengguna dapat mengatur keuangnya seefektif mungkin.
 
 ## Link Video Recording <br>
+https://youtu.be/vLceVgqu2BU
 
 ## Design Interaction Control <br> 
 
