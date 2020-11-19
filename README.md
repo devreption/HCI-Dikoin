@@ -13,6 +13,10 @@ Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengel
 4. 	Membuat sistem informasi berbasis aplikasi website yang dapat membantu siapapun dalam mendapatkan laporan mengenai keuangan.<br>
 5. 	Membuat sistem informasi berbasis aplikasi website  yang dapat membantu siapapun dalam merencanakan pengeluaran uang dalam jangka pendek, menengah dan panjang.<br>
 
+## Proses
+Berikut adalah proses dari sistem Dikoin
+![proses](https://github.com/devreption/HCI-Dikoin/blob/main/Use%20Case%2C%20Prosses%2C%20Activity%20Diagram/proses.png)
+
 ## Link Video Recording <br>
 - <a href = "https://youtu.be/vLceVgqu2BU">Link Video Conference Tentang Penjelasan Desain Mockup </a>
 
