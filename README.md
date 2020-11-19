@@ -11,4 +11,4 @@ Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengel
 ## Link Video Recording <br>
 
 ## Design Interaction Control <br> 
-![Interaksi Kontrol User](InteraksiKontrol.png)
+
