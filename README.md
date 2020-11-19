@@ -29,3 +29,5 @@ Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengel
 ## Design Mockup UI <br>
 - <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/Mockup%20UI/User%20UI">Link Untuk Melihat Mockup UI </a>
 
+## Design Interaction Control
+![poto](https://github.com/devreption/HCI-Dikoin/blob/main/Mockup%20UI/InteraksiKontrol.png)
