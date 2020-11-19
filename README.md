@@ -14,7 +14,6 @@ Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengel
 5. 	Membuat sistem informasi berbasis aplikasi website  yang dapat membantu siapapun dalam merencanakan pengeluaran uang dalam jangka pendek, menengah dan panjang.<br>
 
 ## Link Video Recording <br>
-Link Video Conference Tentang Penjelasan Desain Mockup https://youtu.be/vLceVgqu2BU
 - <a href = "https://youtu.be/vLceVgqu2BU">Link Video Conference Tentang Penjelasan Desain Mockup </a>
 
 ## Fitur
