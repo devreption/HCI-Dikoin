@@ -13,6 +13,24 @@
 - <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/Report%20Writing%20Summary">Link untuk melihat Report Writing </a>
 
 ## DIKOIN <br>
+Masyarakat dan finansial merupakan sebuah topik yang terus diperbincangkan karena
+Indonesia akan menghadapi bonus demografi rentang tahun 2020-2035 dan puncaknya pada
+tahun 2045 yang diperkirakn oleh Bappenas mencapai 24% atau 63,7 juta jiwa dari total
+penduduk Indonesia. IDN Research Center mengatakan bahwa milenial akan menjadi pemeran
+utama dalam kemajuan ekonomi negara yang artinya secara finansial harus mengalami
+peningkatan. Corporate Finance Institute finansial didefinisikan sebagai bentuk kegiatan
+mengelola, mengatur dan merencanakan keuangan. Finansial membantu individu untuk
+mencapai tujuan keuangan mereka agar lebih sejahtera.
+<br>
+Dapat disimpulkan bahwa masyarakat perlu disadarkan pola pikirnya tentang finansial
+dengan mengarahkan mereka menggunakan bantuan sistem informasi sebagi solusi
+permasalahan keuangan mereka
+<br>
+Maka, finansial menjadi perbincamgam yang menarik dikarenakan sifat, pengetahuan
+dan perilaku dalam hal finansial menjadi sebuah kendala dalam mengatur dan
+merencanakannya. Oleh karena itu, Dikoin akan hadir sebagai sistem informasi berbasis
+aplikasi website yang memberikan solusi permasalahan keuangan masyarakat pada umumnya. <br>
+
 Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengelola keuangan pribadi.
 
 ## Tujuan <br>
