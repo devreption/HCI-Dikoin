@@ -7,8 +7,8 @@
 - <a href = "https://youtu.be/vLceVgqu2BU">Link Video Conference Tentang Penjelasan Desain Mockup </a>
 
 ## Analysis Requirement
-- <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/phase1">Link untuk melihat Analisis menggunakan Google Form </a>
-
+- <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/phase1">Link untuk melihat Requirment Gathering 1 menggunakan Google Form </a> <br>
+- <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/phase2">Link untuk melihat Requirment Gathering 2 menggunakan Google Form </a>
 ## Report Writing Summary
 - <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/Report%20Writing%20Summary">Link untuk melihat Report Writing </a>
 ## PORTOFOLIO <br>
