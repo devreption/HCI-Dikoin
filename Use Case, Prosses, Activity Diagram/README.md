@@ -3,3 +3,6 @@
 
 # Proses
 ![proses](proses.png)
+
+# Diagram Activity
+![diagram] (diagramactivity.jpeg)
