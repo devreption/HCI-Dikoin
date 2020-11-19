@@ -64,5 +64,6 @@ Berikut adalah design interaksi kontrol user
 ![poto](https://github.com/devreption/HCI-Dikoin/blob/main/Mockup%20UI/InteraksiKontrol.png)
 
 ## Design Mockup UI <br>
+Mockup Website Tools : Figma <a href ="https://www.figma.com/">Link Tools <a/>
 - <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/Mockup%20UI/User%20UI">Link Untuk Melihat Mockup UI </a>
 
