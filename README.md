@@ -17,14 +17,14 @@ Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengel
 Link Video Conference Tentang Penjelasan Desain Mockup https://youtu.be/vLceVgqu2BU
 
 ## Fitur
-### 1. Login (jika sudah memiliki akun) dan Daftar (jika belum memiliki akun)
-### 2. Home
+#### 1. Login (jika sudah memiliki akun) dan Daftar (jika belum memiliki akun)
+#### 2. Home
   - Pemriksaan Keuangan
   - Rencana Keuangan
   - Laporan Keuangan
   - Anggaran
-### 3. Pesan
-### 4. Profil
+#### 3. Pesan
+#### 4. Profil
 
 ## Design Interaction Control <br> 
 
