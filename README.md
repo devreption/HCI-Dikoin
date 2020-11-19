@@ -10,7 +10,7 @@
 - <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/phase1">Link untuk melihat Analisis menggunakan Google Form </a>
 
 ## Report Writing Summary
-
+- <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/Report%20Writing%20Summary">Link untuk melihat Report Writing </a>
 
 ## DIKOIN <br>
 Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengelola keuangan pribadi.
