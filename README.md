@@ -3,6 +3,15 @@
 - Muhammad Arwani Umar      1313619031 <br>
 - Arga Widya Samudera       1313619032
 
+## Link Video Recording <br>
+- <a href = "https://youtu.be/vLceVgqu2BU">Link Video Conference Tentang Penjelasan Desain Mockup </a>
+
+## Analysis Requirement
+- <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/phase1">Link untuk melihat Analisis menggunakan Google Form </a>
+
+## Report Writing Summary
+
+
 ## DIKOIN <br>
 Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengelola keuangan pribadi.
 
@@ -16,9 +25,6 @@ Dikoin adalah aplikasi berbasis website yang diperuntukan siapa aja untuk mengel
 ## Proses
 Berikut adalah proses dari sistem Dikoin
 ![proses](https://github.com/devreption/HCI-Dikoin/blob/main/Use%20Case%2C%20Prosses%2C%20Activity%20Diagram/proses.png)
-
-## Link Video Recording <br>
-- <a href = "https://youtu.be/vLceVgqu2BU">Link Video Conference Tentang Penjelasan Desain Mockup </a>
 
 ## Fitur
 #### 1. Login (jika sudah memiliki akun) dan Daftar (jika belum memiliki akun)
