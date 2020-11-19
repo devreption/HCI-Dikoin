@@ -32,8 +32,10 @@ Berikut adalah proses dari sistem Dikoin
 #### Fitur tersebut dapat dilihat dari use case berikut
 ![usecase](https://github.com/devreption/HCI-Dikoin/blob/main/Use%20Case%2C%20Prosses%2C%20Activity%20Diagram/usecase.jpeg)
 
+## Design Interaction Control
+Berikut adalah design interaksi kontrol user
+![poto](https://github.com/devreption/HCI-Dikoin/blob/main/Mockup%20UI/InteraksiKontrol.png)
+
 ## Design Mockup UI <br>
 - <a href = "https://github.com/devreption/HCI-Dikoin/tree/main/Mockup%20UI/User%20UI">Link Untuk Melihat Mockup UI </a>
 
-## Design Interaction Control
-![poto](https://github.com/devreption/HCI-Dikoin/blob/main/Mockup%20UI/InteraksiKontrol.png)
