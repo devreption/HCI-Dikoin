@@ -4,4 +4,4 @@
 
 
 ### DESAIN SPRINT
-![Desain-Sprint](desainsprint.png)
+![desainsprint](desainsprint.png)
