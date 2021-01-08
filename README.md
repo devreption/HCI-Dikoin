@@ -1,4 +1,8 @@
-# DIKOIN PROJECT
+# DIKOIN FINAL PROJECT
+### TEAM - L
+- 	Arief Rahman (1313619037)
+- 	Muhammad Arwani Umar (1313619031)
+- 	Arga Widya Samudera (1313619032)
 
 ### DESAIN MOCKUP
 
@@ -7,6 +11,8 @@
 ### DESAIN SPRINT
 ![desainsprint](desainsprint.png)
 
-### TOOLS PROJECT
-- <a href = "https://laravel.com/">Laravel </a>
-- <a href = "https://getbootstrap.com/">Bootstrap </a>
+### FINAL REPORT
+- <a href = "Laporan-IMK (final revision).pdf">Klik Disini Untuk Melihat Laporan</a>
+
+### LINK WEBSITE
+- https://dikoin.xyz/
